@@ -6,10 +6,10 @@ module.exports = {
     execute(client) {
   
         const activities = [
-            { name: 'Netflix', type: ActivityType.Watching },
-            { name: 'GTA VI', type: ActivityType.Playing },
-            { name: 'on YouTube', type: ActivityType.Streaming },
-            { name: 'Spotify', type: ActivityType.Listening },
+            { name: 'Boo Family', type: ActivityType.Watching },
+            { name: 'Vanlorant with Boarz', type: ActivityType.Playing },
+            { name: 'Alissa Tien', type: ActivityType.Streaming },
+            { name: 'Wrong times', type: ActivityType.Listening },
         ];
 
      
